@@ -4,6 +4,7 @@
 import os
 import time
 
+os.system("apt install cowsay")
 os.system("clear")
 os.system("cowsay -f skeleton back world")
 
